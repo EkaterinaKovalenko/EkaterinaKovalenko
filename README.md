@@ -2,25 +2,14 @@
 
 ### Welcome to my Github profile
 
-### My name is Kate, and I am a QA engineer
+### My name is Kate, and I am a QA engineer 💻
 
-### I am passionate about software testing and I would like to test different applications in order to improve their quality and to continue improving my testing skills.
 
-### I like to learn pretty much eveything that I find interesting in software development
+- I am passionate about software testing and I would like to test different applications in order to improve their quality and to continue improving my testing skills
+
+- I like to learn pretty much eveything that I find interesting in software development
 
 ### This is my portfolio, with all projects and studies that i made;
 
-<!--
-**EkaterinaKovalenko/EkaterinaKovalenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
