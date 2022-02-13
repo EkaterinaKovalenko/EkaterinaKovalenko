@@ -11,5 +11,18 @@
 
 ### This is my portfolio, with all projects and studies that i made;
 
+### Connect with me:
 
+[<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="VladKalachev | TELEGRAM" width="22px" src= https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg />][telegram]
+
+
+<br />
+
+
+[youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
+[linkedin]: https://www.linkedin.com/in/екатерина-коваленко-47588116b
+[telegram]: https://t.me/Katrishkaa
+[vk]: https://vk.com/id23117449
 
