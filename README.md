@@ -2,7 +2,7 @@
 
 ### Welcome to my Github profile
 
-### My name is Kate, and I am a QA engineer 💻
+### My name is Kate. I am a QA engineer 💻
 
 
 - I am passionate about software testing and I would like to test different applications in order to improve their quality and to continue improving my testing skills
